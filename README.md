@@ -96,15 +96,17 @@ PNPM:
 2. Create a [Vercel](http://vercel.com/) Project for each app
 
    1. Click Add New Project
+   2. 
      <img width="785" height="514" alt="image" src="https://github.com/user-attachments/assets/0b4528c3-3aaf-411b-a273-b08916ad7aad" />
 
-   2. Import from GitHub
+   3. Import from GitHub
+   4. 
       <img width="422" height="484" alt="image" src="https://github.com/user-attachments/assets/bca91f14-2255-4783-810f-c91527bf9d31" />
 
-   3. Set Root Directory to the app folder
-   4. Copy both of your .env files into the project
+   5. Set Root Directory to the app folder
+   6. Copy both of your .env files into the project
       \[PLACEHOLDER IMAGE: Framework detection]
-   5. Save
+   7. Save
 
 ## 4. Steps to deploy on Neon and Atlas
 
